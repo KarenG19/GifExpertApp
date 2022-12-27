@@ -2,7 +2,6 @@
 
 Página web para buscar gifs utilizando la API de Giphy Developers.
 
-# Tecnologias
+# Vitar en
 
-React
-Vite
+https://kareng19.github.io/GifExpertApp/
