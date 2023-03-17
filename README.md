@@ -1,5 +1,5 @@
 # Descripción
-Página web para buscar gifs utilizando la API de Giphy Developers.
+GifExpertApp es una página web para buscar gifs utilizando la API de Giphy Developers.
 
 # Herramientas tecnológicas utilizadas
 - HTML5
